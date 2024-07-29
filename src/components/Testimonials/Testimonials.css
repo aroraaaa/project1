@@ -84,4 +84,8 @@
     .slider p{
         font-size: 9px;
     }
+
+    .slide{
+        padding: 20px;
+    }
 }
